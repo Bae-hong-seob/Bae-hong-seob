@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
+<a href="https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736e2dc737e1975056cbf4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337363641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465" target="_blank"><img src="https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=white"/></a>
 
 <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
