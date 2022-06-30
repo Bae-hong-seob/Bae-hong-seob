@@ -3,6 +3,8 @@
 <!--
 **Bae-hong-seob/Bae-hong-seob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/python-000080?style=flat&logo=#3776AB&logoColor=000080"/></a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
