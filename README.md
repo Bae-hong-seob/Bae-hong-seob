@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <span>
   <img src="https://img.shields.io/badge/openCV-5C3EE8?style=flat&logo=openCV&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 </span>
 </block>
 
