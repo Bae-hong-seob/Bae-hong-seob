@@ -40,7 +40,7 @@ Welcome to my profile! This is an overview of my github activities. You can see 
 </block>  
 </br>
   
-Web Tech
+### Web Tech
 
 <block>
   <span>
@@ -56,7 +56,7 @@ Web Tech
 </br>
 </br>
 
-App Tech
+### App Tech
   
 <block>
   <span>
