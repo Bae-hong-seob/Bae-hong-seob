@@ -19,6 +19,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
   </span>
 </block>
+</br>
 Welcome to my profile! This is an overview of my github activities. You can see what I did and what I'm planning to do.  
 
 ML,DL Tech
@@ -36,7 +37,6 @@ ML,DL Tech
     <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>  
   </span>
 </block>  
-</br>
 </br>
   
 Web Tech
