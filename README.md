@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ML,DL Tech
-  
 <block>
   <span>
     <img src="https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=white"/>
@@ -26,9 +25,8 @@ ML,DL Tech
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>  
   </span>
-</block>
-
-  
+</block>  
+</br>
 </br>
   
 Web Tech
@@ -45,7 +43,7 @@ Web Tech
 </block>
   
 </br>
-  
+</br>
 App Tech
   
 <span>
