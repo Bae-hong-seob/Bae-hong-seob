@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* ML, DL Tech
+ML,DL Tech
 
 <block>
   <span>
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   
 </br>
 
+Web Tech
 
 <block>
   <span>
@@ -43,7 +44,8 @@ Here are some ideas to get you started:
   </span>
 </block>
   
-  #
+</br>
+App Tech
   
 <span>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
