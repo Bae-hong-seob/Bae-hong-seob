@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#ML, DL Tech
+
 <block>
   <span>
     <img src="https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=white"/>
