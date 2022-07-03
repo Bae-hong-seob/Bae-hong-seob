@@ -48,6 +48,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 </span>
 
+#
+
 
 I'm currently working on Kwangwoon University.  
 I'm cureently learning about machine learning, Deep learning model  
