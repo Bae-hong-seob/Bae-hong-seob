@@ -71,7 +71,10 @@ Welcome to my profile! This is an overview of my github activities. You can see 
 
 
 I'm currently working on Kwangwoon University.  
-I'm cureently learning about machine learning, Deep learning model  
+I'm currently learning about machine learning, Deep learning model  
+(past). 
+I learned about CNN, visual tech using openCV, apply to Virtual reality (Unity, UE5)  
+I currently learning about GNN.  
 
 
 ![sobeeee github stats](https://github-readme-stats.vercel.app/api?username=Bae-hong-seob&show_icons=true)
