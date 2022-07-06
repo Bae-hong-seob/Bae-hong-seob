@@ -18,14 +18,13 @@ Here are some ideas to get you started:
 
 
 <block>
-  <span>
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
-  </span>
+    <span>
+      <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+    </span>
 </block>
 </br>
 Welcome to my profile! This is an overview of my github activities. You can see what I did and what I'm planning to do.  
 </br>
-
 ### ML,DL Tech
 
 
