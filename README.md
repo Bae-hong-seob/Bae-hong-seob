@@ -77,7 +77,7 @@ I'm currently learning about machine learning, Deep learning model
 
 (past)   
 I learned about CNN, visual tech using openCV, apply to Virtual reality (Unity, UE5)  
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/>  
 
 (now)  
