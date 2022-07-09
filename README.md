@@ -85,6 +85,7 @@ I learned about CNN, visual tech using openCV, apply to Virtual reality (Unity, 
 
 (now)  
 I currently learning about GNN.  
+checklist
 
 
 ![sobeeee github stats](https://github-readme-stats.vercel.app/api?username=Bae-hong-seob&show_icons=true)
