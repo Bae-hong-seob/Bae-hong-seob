@@ -42,6 +42,7 @@ You can see what I did and what I'm planning to do.
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/DL-pytorch-blue"/>  
   </span>
 </block>  
 </br>
