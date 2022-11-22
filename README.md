@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 <block>
+    (contact)
     <span>
       <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
       <a href="https://www.instagram.com/so_b_eee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
