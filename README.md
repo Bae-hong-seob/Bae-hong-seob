@@ -36,13 +36,13 @@ You can see what I did and what I'm planning to do.
   <span>
     <img src="https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
     <img src="https://img.shields.io/badge/openCV-5C3EE8?style=flat&logo=openCV&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>    
-    <br>
+    <br> 
+    <img src="https://img.shields.io/badge/DL-tensorflow-orange"/>
     <img src="https://img.shields.io/badge/DL-pytorch-blue"/>  
   </span>
 </block>  
