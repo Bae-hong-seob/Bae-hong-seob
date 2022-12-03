@@ -75,7 +75,6 @@ You can see what I did and what I'm planning to do.
 
 #
 
-
 I'm currently working on Kwangwoon University.  
 I'm currently learning about machine learning, Deep learning model    
 
