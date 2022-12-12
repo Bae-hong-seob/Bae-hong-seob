@@ -88,6 +88,7 @@ I learned about CNN, visual tech using openCV, apply to Virtual reality (Unity, 
 </block>
 
 (now)  
-I currently learning about GNN. (광운대학교 데이터 네트워크 인공지능 연구실(I-DNA (Intelligent Data Network AI) Lab.) 학부연구생)
+I currently learning about GNN.  
+(광운대학교 데이터 네트워크 인공지능 연구실(I-DNA (Intelligent Data Network AI) Lab.) 학부연구생)
 
 ![sobeeee github stats](https://github-readme-stats.vercel.app/api?username=Bae-hong-seob&show_icons=true)
