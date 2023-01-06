@@ -40,8 +40,9 @@ I currently learning about self-driving car.
 <br>
 
 
-# Skills(preferred)
+# Skills
 
+(preferred)
 ### Language
 <span> 
     <img src="https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=white"/> 
