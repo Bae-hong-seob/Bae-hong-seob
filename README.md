@@ -37,8 +37,8 @@ I learned about CNN, visual tech using openCV, apply to Virtual reality (Unity, 
 I currently learning about GNN.  
 I currently learning about self-driving car.  
 (광운대학교 데이터 네트워크 인공지능 연구실(I-DNA (Intelligent Data Network AI) Lab.) 학부연구생)
+<br>
 
-<hr/>
 
 # Sills
 <hr/>
