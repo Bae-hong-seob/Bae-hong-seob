@@ -41,7 +41,6 @@ I currently learning about self-driving car.
 
 
 # Skills
-<hr/>
 
 ### ML,DL Tech  
 
