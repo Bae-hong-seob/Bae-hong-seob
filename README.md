@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 ### ABOUT ME
 <hr/>
-👋 Hi, I'm Bae Hong Seob
-😎 I'm interested in Deep Learning, Recommend System, Self-driving car
-📧 Contact Me : bhs8931@gmail.com
-💁 Here's my blog : [sobeee의 Tistory](https://sobeee.tistory.com/)
+👋 Hi, I'm Bae Hong Seob.  
+😎 I'm interested in Deep Learning, Recommend System, Self-driving car.  
+📧 Contact Me : bhs8931@gmail.com.  
+💁 Here's my blog : [sobeee의 Tistory](https://sobeee.tistory.com/).  
 
 (past)   
 I learned about CNN, visual tech using openCV, apply to Virtual reality (Unity, UE5)  
