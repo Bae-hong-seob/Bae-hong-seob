@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>   
 <a href="https://www.instagram.com/so_b_eee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100006628810488" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> <br>
-💁 Here's my blog : [sobeee의 Tistory](https://sobeee.tistory.com/)  <br>
+💁 Here's my blog : [Tistory](https://sobeee.tistory.com/)  <br>
 <br>
 
 (past)   
