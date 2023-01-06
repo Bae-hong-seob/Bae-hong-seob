@@ -85,6 +85,9 @@ I currently learning about self-driving car.
 </block>
 
 # Eeducation
-[(23.01.06) Naver boostcourse](http://www.boostcourse.org/certificate/A20230106-163004?langCode=ko)
+[(23.01.06) Naver boostcourse ](http://www.boostcourse.org/certificate/A20230106-163004?langCode=ko)
+[(23.01.06) Naver boostcourse 딥러닝 기초 다지기](http://www.boostcourse.org/certificate/A20230106-870530?langCode=ko)
+
+
 
 ![sobeeee github stats](https://github-readme-stats.vercel.app/api?username=Bae-hong-seob&show_icons=true)
