@@ -15,6 +15,24 @@ Here are some ideas to get you started:
 
 ### ABOUT ME
 <hr/>
+👋 Hi, I'm Bae Hong Seob
+😎 I'm interested in Deep Learning, Recommend System, Self-driving car
+📧 Contact Me : bhs8931@gmail.com
+💁 Here's my blog : [sobeee의 Tistory](https://sobeee.tistory.com/)
+
+(past)   
+I learned about CNN, visual tech using openCV, apply to Virtual reality (Unity, UE5)  
+<block>
+    <span>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/>  
+    </span>
+</block>
+
+(now)  
+I currently learning about GNN.  
+I currently learning about self-driving car.  
+(광운대학교 데이터 네트워크 인공지능 연구실(I-DNA (Intelligent Data Network AI) Lab.) 학부연구생)
 
 
 
@@ -75,22 +93,5 @@ You can see what I did and what I'm planning to do.
 </block>
 
 #
-
-I'm currently working on Kwangwoon University.  
-I'm currently learning about machine learning, Deep learning model    
-
-(past)   
-I learned about CNN, visual tech using openCV, apply to Virtual reality (Unity, UE5)  
-<block>
-    <span>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/>  
-    </span>
-</block>
-
-(now)  
-I currently learning about GNN.  
-I currently learning about self-driving car.  
-(광운대학교 데이터 네트워크 인공지능 연구실(I-DNA (Intelligent Data Network AI) Lab.) 학부연구생)
 
 ![sobeeee github stats](https://github-readme-stats.vercel.app/api?username=Bae-hong-seob&show_icons=true)
