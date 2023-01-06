@@ -43,8 +43,7 @@ I currently learning about self-driving car.
 # Skills
 
 ### Language(preferred)
-<img src="https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>    
+<span> <img src="https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> </span>
 
 
 
