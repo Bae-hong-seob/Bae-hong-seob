@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 😎 I'm interested in Deep Learning, Recommend System, Self-driving car.  <br>
 📧 Contact Me : bhs8931@gmail.com.  <br>
 💁 Here's my blog : [sobeee의 Tistory](https://sobeee.tistory.com/).  <br>
+<br>
 
 (past)   
 I learned about CNN, visual tech using openCV, apply to Virtual reality (Unity, UE5)  
