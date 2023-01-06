@@ -40,7 +40,7 @@ I currently learning about self-driving car.
 <br>
 
 
-# Sills
+# Skills
 <hr/>
 
 ### ML,DL Tech  
