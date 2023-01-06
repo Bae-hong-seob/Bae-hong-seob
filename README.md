@@ -42,7 +42,6 @@ I currently learning about self-driving car.
 
 # Skills
 
-(preferred)
 ### Language
 <span> 
     <img src="https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=white"/> 
