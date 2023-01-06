@@ -84,6 +84,7 @@ I currently learning about self-driving car.
   </span>
 </block>
 
-#
+# Eeducation
+[naver boostcamp](http://www.boostcourse.org/certificate/A20230106-163004?langCode=ko)
 
 ![sobeeee github stats](https://github-readme-stats.vercel.app/api?username=Bae-hong-seob&show_icons=true)
