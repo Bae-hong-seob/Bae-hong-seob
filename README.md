@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # ABOUT ME
-<hr/>
+
 👋 Hi, I'm Bae Hong Seob.  <br>
 😎 I'm interested in Deep Learning, Recommend System, Self-driving car.  <br>
 📧 Contact Me : 
