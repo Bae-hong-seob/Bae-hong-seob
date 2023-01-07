@@ -66,9 +66,8 @@ https://simpleicons.org/
 ### ML,DL Tech  
 <block>
   <span>
-    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/DL-pytorch-blue"/>  
-    <img src="https://img.shields.io/badge/DL-tensorflow-orange"/>  
+    <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> 
     <img src="https://img.shields.io/badge/openCV-5C3EE8?style=flat&logo=openCV&logoColor=white"/>
     <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
     <br> 
