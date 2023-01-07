@@ -55,17 +55,15 @@ I currently learning about self-driving car.
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
 </span>
 
-
-
 ### ML,DL Tech  
 
 <block>
   <span>
-    <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/openCV-5C3EE8?style=flat&logo=openCV&logoColor=white"/>
-    <br> 
-    <img src="https://img.shields.io/badge/DL-tensorflow-orange"/>
     <img src="https://img.shields.io/badge/DL-pytorch-blue"/>  
+    <img src="https://img.shields.io/badge/DL-tensorflow-orange"/>  
+    <img src="https://img.shields.io/badge/openCV-5C3EE8?style=flat&logo=openCV&logoColor=white"/>
+    <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+    <br> 
   </span>
 </block>  
 </br>
