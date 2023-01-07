@@ -42,10 +42,11 @@ I currently learning about self-driving car.
 
 # Skills
 
-<!-- 이모티콘 url & 코드 -->
+<!-- 
+이모티콘 url & 코드 
 https://simpleicons.org/
 <img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-<!-- 이모티콘 url & 코드 -->
+-->
 
 ### Language
 <span> 
@@ -86,6 +87,7 @@ https://simpleicons.org/
   </span>
 </block>
 
+<!-- 
 ### App Tech
 <block>
   <span>
@@ -93,6 +95,8 @@ https://simpleicons.org/
       <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
   </span>
 </block>
+-->
+
 
 # Eeducation
 [(23.01.06) Naver boostcourse 인공지능(AI) 기초 다지기](http://www.boostcourse.org/certificate/A20230106-163004?langCode=ko) <br>
