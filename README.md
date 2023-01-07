@@ -42,9 +42,10 @@ I currently learning about self-driving car.
 
 # Skills
 
-'''
+<!-- 이모티콘 url & 코드 -->
+https://simpleicons.org/
 <img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-'''
+<!-- 이모티콘 url & 코드 -->
 
 ### Language
 <span> 
@@ -65,6 +66,7 @@ I currently learning about self-driving car.
 ### ML,DL Tech  
 <block>
   <span>
+    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> 
     <img src="https://img.shields.io/badge/DL-pytorch-blue"/>  
     <img src="https://img.shields.io/badge/DL-tensorflow-orange"/>  
     <img src="https://img.shields.io/badge/openCV-5C3EE8?style=flat&logo=openCV&logoColor=white"/>
