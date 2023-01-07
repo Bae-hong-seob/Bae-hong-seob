@@ -42,6 +42,11 @@ I currently learning about self-driving car.
 
 # Skills
 
+'''
+<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+
+'''
+
 ### Language
 <span> 
     <img src="https://img.shields.io/badge/python-000080?style=flat&logo=python&logoColor=white"/> 
@@ -54,6 +59,9 @@ I currently learning about self-driving car.
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
 </span>
+
+### Environment
+    <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/> 
 
 ### ML,DL Tech  
 <block>
