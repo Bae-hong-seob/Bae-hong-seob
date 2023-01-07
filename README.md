@@ -56,7 +56,6 @@ I currently learning about self-driving car.
 </span>
 
 ### ML,DL Tech  
-
 <block>
   <span>
     <img src="https://img.shields.io/badge/DL-pytorch-blue"/>  
@@ -66,10 +65,8 @@ I currently learning about self-driving car.
     <br> 
   </span>
 </block>  
-</br>
   
 ### Web Tech
-
 <block>
   <span>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -80,11 +77,8 @@ I currently learning about self-driving car.
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   </span>
 </block>
-  
-</br>
 
 ### App Tech
-  
 <block>
   <span>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
