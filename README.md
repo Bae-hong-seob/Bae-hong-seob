@@ -99,7 +99,7 @@ https://simpleicons.org/
 
 
 # Eeducation
-[(22.11.11) Unity Lab progarm](https://github.com/Bae-hong-seob/2021-2-University_2_2/blob/main/%EC%9C%A0%EB%8B%88%ED%8B%B0%20ALP%20%EC%88%98%EB%A3%8C%EC%A6%9D_%EB%B0%B0%ED%99%8D%EC%84%AD.pdf)
+[(22.01.11) Unity Lab progarm](https://github.com/Bae-hong-seob/2021-2-University_2_2/blob/main/%EC%9C%A0%EB%8B%88%ED%8B%B0%20ALP%20%EC%88%98%EB%A3%8C%EC%A6%9D_%EB%B0%B0%ED%99%8D%EC%84%AD.pdf) <br>
 [(23.01.06) Naver boostcourse 인공지능(AI) 기초 다지기](http://www.boostcourse.org/certificate/A20230106-163004?langCode=ko) <br>
 [(23.01.06) Naver boostcourse 딥러닝 기초 다지기](http://www.boostcourse.org/certificate/A20230106-870530?langCode=ko) <br>
 [(23.01.06) Naver boostcourse 선형대수](http://www.boostcourse.org/certificate/A20230106-870530?langCode=ko) <br>
