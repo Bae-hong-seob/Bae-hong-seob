@@ -118,7 +118,7 @@ https://simpleicons.org/
 
 [(23.09.10) Google brain team - Neural Network and Deep Learning](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Coursera%20DeepLearning%20Course.pdf)  
 [(23.09.12) Google brain team - Improving Deep Neural Networks](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Improving%20Deep%20Neural%20Networks.pdf)  
-[(23.09.14) Google brain team - Improving Deep Neural Networks](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Improving%20Deep%20Neural%20Networks.pdf)
+[(23.09.14) Google brain team - Structuring Machine Learning Projects](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Structuring%20Machine%20Learning%20Projects.pdf)
 
 
 <!-- ![sobeeee github stats](https://github-readme-stats.vercel.app/api?username=Bae-hong-seob&show_icons=true) -->
