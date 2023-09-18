@@ -116,9 +116,11 @@ https://simpleicons.org/
 
 [(23.01.02~23.02.28) 2회 LG AI 청년 프로그램 수료증](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/2%E1%84%92%E1%85%AC%20LG%20AI%20%E1%84%8E%E1%85%A5%E1%86%BC%E1%84%82%E1%85%A7%E1%86%AB%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%20%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.pdf)
 
-[(23.09.10) Google brain team - Neural Network and Deep Learning](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Coursera%20DeepLearning%20Course.pdf)  
-[(23.09.12) Google brain team - Improving Deep Neural Networks](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Improving%20Deep%20Neural%20Networks.pdf)  
-[(23.09.14) Google brain team - Structuring Machine Learning Projects](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Structuring%20Machine%20Learning%20Projects.pdf)
+[(23.09.10) Google DeepLearning.AI - Neural Network and Deep Learning](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Coursera%20DeepLearning%20Course.pdf)  
+[(23.09.12) Google DeepLearning.AI - Improving Deep Neural Networks](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Improving%20Deep%20Neural%20Networks.pdf)  
+[(23.09.14) Google DeepLearning.AI - Structuring Machine Learning Projects](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Structuring%20Machine%20Learning%20Projects.pdf)  
+[(23.09.18) Google DeepLearning.AI - Structuring Machine Learning Projects](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Structuring%20Machine%20Learning%20Projects.pdf)  
+
 
 
 <!-- ![sobeeee github stats](https://github-readme-stats.vercel.app/api?username=Bae-hong-seob&show_icons=true) -->
