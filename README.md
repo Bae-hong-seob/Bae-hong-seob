@@ -119,7 +119,7 @@ https://simpleicons.org/
 [(23.09.10) Google DeepLearning.AI - Neural Network and Deep Learning](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Coursera%20DeepLearning%20Course.pdf)  
 [(23.09.12) Google DeepLearning.AI - Improving Deep Neural Networks](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Improving%20Deep%20Neural%20Networks.pdf)  
 [(23.09.14) Google DeepLearning.AI - Structuring Machine Learning Projects](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Structuring%20Machine%20Learning%20Projects.pdf)  
-[(23.09.18) Google DeepLearning.AI - Structuring Machine Learning Projects](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Structuring%20Machine%20Learning%20Projects.pdf)  
+[(23.09.18) Google DeepLearning.AI - Structuring Machine Learning Projects](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Convolutional%20Neural%20Networks.pdf)  
 
 
 
