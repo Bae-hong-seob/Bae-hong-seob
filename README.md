@@ -120,7 +120,6 @@ https://simpleicons.org/
 [(23.09.12) Google DeepLearning.AI - Improving Deep Neural Networks](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Improving%20Deep%20Neural%20Networks.pdf)  
 [(23.09.14) Google DeepLearning.AI - Structuring Machine Learning Projects](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Structuring%20Machine%20Learning%20Projects.pdf)  
 [(23.09.18) Google DeepLearning.AI - Convolutional Neural Networks](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Convolutional%20Neural%20Networks.pdf)  
-
-
+[(23.10.25) Google DeepLearning.AI - Sequence Models](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/Convolutional%20Neural%20Networks.pdf)  
 
 <!-- ![sobeeee github stats](https://github-readme-stats.vercel.app/api?username=Bae-hong-seob&show_icons=true) -->
