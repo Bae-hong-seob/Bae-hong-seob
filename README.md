@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - [I conducted self-driving robot experiment depends on computing power, deep learning model capacity and network environments.](https://github.com/Bae-hong-seob/Self-driving-robot)
 
 (now)  
-I currently learning about Recommend System
+I currently learning about Recommend System.  
 2022.06 ~ (광운대학교 데이터 네트워크 인공지능 연구실(I-DNA (Intelligent Data Network AI) Lab.) 학부연구생)
 - (20 November 2023) MDPI published paper about Recommend System, Network Service
 - [Proactive Service Caching in a MEC System by Using Spatio-Temporal Correlation among MEC Servers](https://www.mdpi.com/2076-3417/13/22/12509#) by Hongseob Bae and Jaesung Park
