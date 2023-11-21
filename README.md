@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - I learned about CNN, visual tech using openCV, apply to Virtual reality <span>
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
     <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/>  </span>
-- I conducted self-driving robot experiment depends on computing power, deep learning model capacity and network environments.
+- [I conducted self-driving robot experiment depends on computing power, deep learning model capacity and network environments.](https://github.com/Bae-hong-seob/Self-driving-robot)
 
 (now)  
 I currently learning about Recommend System
