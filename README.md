@@ -37,6 +37,7 @@ I learned about CNN, visual tech using openCV, apply to Virtual reality (Unity, 
 I currently learning about GNN.  
 I currently learning about self-driving car.  
 2022.06 ~ (광운대학교 데이터 네트워크 인공지능 연구실(I-DNA (Intelligent Data Network AI) Lab.) 학부연구생)
+- 2023.11.20 [MDPI published paper about Recommend System, Network Service](https://www.mdpi.com/2076-3417/13/22/12509#)
 <br>
 
 
