@@ -112,7 +112,7 @@ https://simpleicons.org/
 [(23.01.24) H-Mobility Class 자율주행 자동차 통신 및 네트워크 기술 기초](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/H-Mobility%20Class%20%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%ED%86%B5%EC%8B%A0%20%EB%B0%8F%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88.pdf) <br>
 [(23.01.24) H-Mobility Class 자율주행 자동차 통신 및 네트워크 기술 심화](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/H-Mobility%20Class%20%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%ED%86%B5%EC%8B%A0%20%EB%B0%8F%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%8B%AC%ED%99%94.pdf) <br>
 
-[(23.01.02~23.02.28) 2회 LG AI 청년 프로그램 수료증](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/2%E1%84%92%E1%85%AC%20LG%20AI%20%E1%84%8E%E1%85%A5%E1%86%BC%E1%84%82%E1%85%A7%E1%86%AB%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%20%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.pdf)
+[(23.01.02~23.02.28) 2회 LG AI 스마트 공장의 제어 시스템 구축을 위한 제품 품질 분류 AI 모델 개발 해커톤 Public 1st, Private 5st](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/2%E1%84%92%E1%85%AC%20LG%20AI%20%E1%84%8E%E1%85%A5%E1%86%BC%E1%84%82%E1%85%A7%E1%86%AB%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%20%E1%84%89%E1%85%AE%E1%84%85%E1%85%AD%E1%84%8C%E1%85%B3%E1%86%BC.pdf)
 
 [(23.09.10) Google DeepLearning.AI - Neural Network and Deep Learning](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/(Coursera)DeepLearning%20Course.pdf)  
 [(23.09.12) Google DeepLearning.AI - Improving Deep Neural Networks](https://github.com/Bae-hong-seob/Bae-hong-seob/blob/main/(Coursera)Improving%20Deep%20Neural%20Networks%20.pdf)  
