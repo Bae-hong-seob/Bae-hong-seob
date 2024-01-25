@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 (now)  
 I currently learning about Recommend System.  
 2022.06 ~ (광운대학교 데이터 네트워크 인공지능 연구실(I-DNA (Intelligent Data Network AI) Lab.) 학부연구생)
-- (20 November 2023) MDPI published paper about Recommend System, Network Service
-- [Proactive Service Caching in a MEC System by Using Spatio-Temporal Correlation among MEC Servers](https://www.mdpi.com/2076-3417/13/22/12509#) by Hongseob Bae and Jaesung Park
+- (20 November 2023) MDPI published paper about Recommend System, Network Service [Proactive Service Caching in a MEC System by Using Spatio-Temporal Correlation among MEC Servers](https://www.mdpi.com/2076-3417/13/22/12509#) by Hongseob Bae and Jaesung Park
 <br>
 
 
